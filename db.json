@@ -1,14 +1,100 @@
 {
-    "users": [
+  "items": {
+    "sunglasses": [
       {
         "id": 1,
-        "name": "David",
-        "age": 30
+        "name": "Ray-Ban RB4165 Justin Rectangular Sunglasses.",
+        "price": 163,
+        "discount": 2,
+        "delivery": 2,
+        "color": "brown",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20210423/cRxj/6082ef8faeb269a9e39ca2bb/guess_brown_gu6928_56_52g_uv-protected_shield_sunglasses.jpg"
       },
       {
-        "name": "John",
         "id": 2,
-        "age": 40
+        "name": "Ray-Ban RB4171 Erika Sunglasses.",
+        "price": 153,
+        "discount": 0,
+        "delivery": 2,
+        "color": "black",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20210423/nnWB/6082f3c7aeb269a9e39cb1cc/guess_grey_gu3049_50_02b_full-rim_wayfarer_sunglasses.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ray-Ban Unisex RB3025 Classic Aviator Sunglasses, 58mm.",
+        "price": 154,
+        "discount": 0,
+        "delivery": 2,
+        "color": "brown",
+        "url": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5f1738ad7cdb8c721b811c1b/polaroid_brown_pld_6091s_phw_54xn_polarised_rectangular_sunglasses.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Ray-Ban Metal Frame Copper Lens Sunglasses.",
+        "price": 94,
+        "discount": 0,
+        "delivery": 4,
+        "color": "copper",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20210403/TcqV/60694954aeb269a9e34148e0/carlton_london_gold_full_rim_rectangular_sunglasses.jpg"
+      }
+    ],
+    "wallets": [
+      {
+        "id": 5,
+        "name": "Crocodile YB4165 Leather Wallet.",
+        "price": 463,
+        "discount": 10,
+        "delivery": 5,
+        "color": "brown",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20210225/WxW8/6036e63eaeb26969816e1556/style_shoes_brown_reptilian_pattern_wallet.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Crocodile KB4371 Wallet.",
+        "price": 353,
+        "discount": 0,
+        "delivery": 4,
+        "color": "black",
+        "url": "https://assets.ajio.com/medias/sys_master/root/h15/hbf/16198711410718/satya_paul_black_textured_bi-fold_wallet_with_logo.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Crocodile YK43146 Leather Wallet",
+        "price": 654,
+        "discount": 0,
+        "delivery": 2,
+        "color": "black",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20200829/o6Nc/5f4954aff997dd6918b007b0/tommy_hilfiger_brown_geometric_print_bi-fold_wallet.jpg"
+      }
+    ],
+    "shoes": [
+      {
+        "id": 8,
+        "name": "Reebok Men's Revolution.",
+        "price": 960,
+        "discount": 2,
+        "delivery": 2,
+        "color": "brown",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20201006/Iime/5f7b6e94aeb269d563d1d12a/-473Wx593H-460562717-black-MODEL2.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Reebok Energy Runner LP.",
+        "price": 753,
+        "discount": 0,
+        "delivery": 2,
+        "color": "black",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20210108/0PfZ/5ff87d957cdb8c1f1423c413/puma-black-running-pacer-mars-idp-sports-shoes.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Adidas Running Elate Shoes.",
+        "price": 953,
+        "discount": 5,
+        "delivery": 2,
+        "color": "black",
+        "url": "https://assets.ajio.com/medias/sys_master/root/20210219/b2w1/602ebe76aeb2696981688735/-473Wx593H-460834113-black-MODEL.jpg"
       }
     ]
   }
+}

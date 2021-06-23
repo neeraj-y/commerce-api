@@ -1,6 +1,5 @@
 {
-  "items": {
-    "sunglasses": [
+  "items": [
       {
         "id": 1,
         "name": "Ray-Ban RB4165 Justin Rectangular Sunglasses.",
@@ -36,9 +35,7 @@
         "delivery": 4,
         "color": "copper",
         "url": "https://assets.ajio.com/medias/sys_master/root/20210403/TcqV/60694954aeb269a9e34148e0/carlton_london_gold_full_rim_rectangular_sunglasses.jpg"
-      }
-    ],
-    "wallets": [
+      },
       {
         "id": 5,
         "name": "Crocodile YB4165 Leather Wallet.",
@@ -65,9 +62,7 @@
         "delivery": 2,
         "color": "black",
         "url": "https://assets.ajio.com/medias/sys_master/root/20200829/o6Nc/5f4954aff997dd6918b007b0/tommy_hilfiger_brown_geometric_print_bi-fold_wallet.jpg"
-      }
-    ],
-    "shoes": [
+      },
       {
         "id": 8,
         "name": "Reebok Men's Revolution.",
@@ -97,4 +92,3 @@
       }
     ]
   }
-}
